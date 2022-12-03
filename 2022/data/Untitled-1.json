@@ -1,0 +1,1572 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=merry+xmas&type=track&market=GB&locale=en-GB%2Cen%3Bq%3D0.5&offset=0&limit=20",
+    "items": [
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+              },
+              "href": "https://api.spotify.com/v1/artists/10n5lhNDoSMUHWLlnST1yw",
+              "id": "10n5lhNDoSMUHWLlnST1yw",
+              "name": "Slade",
+              "type": "artist",
+              "uri": "spotify:artist:10n5lhNDoSMUHWLlnST1yw"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/05p2SZoivHg20xFgM0ibTy"
+          },
+          "href": "https://api.spotify.com/v1/albums/05p2SZoivHg20xFgM0ibTy",
+          "id": "05p2SZoivHg20xFgM0ibTy",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273dcc66452d8c387307700ed1b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02dcc66452d8c387307700ed1b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851dcc66452d8c387307700ed1b",
+              "width": 64
+            }
+          ],
+          "name": "Merry Xmas Everybody",
+          "release_date": "1973-11-07",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:05p2SZoivHg20xFgM0ibTy"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+            },
+            "href": "https://api.spotify.com/v1/artists/10n5lhNDoSMUHWLlnST1yw",
+            "id": "10n5lhNDoSMUHWLlnST1yw",
+            "name": "Slade",
+            "type": "artist",
+            "uri": "spotify:artist:10n5lhNDoSMUHWLlnST1yw"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223684,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAKW7301006"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4dBQWyoZmmgvFBlALGlqZi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4dBQWyoZmmgvFBlALGlqZi",
+        "id": "4dBQWyoZmmgvFBlALGlqZi",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Xmas Everybody",
+        "popularity": 64,
+        "preview_url": "https://p.scdn.co/mp3-preview/6bd95d7e4e7b478ef0fac595ab5492e27e3fa5dd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4dBQWyoZmmgvFBlALGlqZi"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+              },
+              "href": "https://api.spotify.com/v1/artists/4x1nvY2FN8jxqAFA0DA02H",
+              "id": "4x1nvY2FN8jxqAFA0DA02H",
+              "name": "John Lennon",
+              "type": "artist",
+              "uri": "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+          },
+          "href": "https://api.spotify.com/v1/albums/555NIhJIQ4XoS5N7VglF0v",
+          "id": "555NIhJIQ4XoS5N7VglF0v",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27361a389971d7842d02b0623ab",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0261a389971d7842d02b0623ab",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485161a389971d7842d02b0623ab",
+              "width": 64
+            }
+          ],
+          "name": "Signature Box",
+          "release_date": "2010-10-05",
+          "release_date_precision": "day",
+          "total_tracks": 119,
+          "type": "album",
+          "uri": "spotify:album:555NIhJIQ4XoS5N7VglF0v"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+            },
+            "href": "https://api.spotify.com/v1/artists/4x1nvY2FN8jxqAFA0DA02H",
+            "id": "4x1nvY2FN8jxqAFA0DA02H",
+            "name": "John Lennon",
+            "type": "artist",
+            "uri": "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/2s4tjL6W3qrblOe0raIzwJ",
+            "id": "2s4tjL6W3qrblOe0raIzwJ",
+            "name": "Yoko Ono",
+            "type": "artist",
+            "uri": "spotify:artist:2s4tjL6W3qrblOe0raIzwJ"
+          }
+        ],
+        "disc_number": 10,
+        "duration_ms": 214333,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAYE1000862"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+        },
+        "href": "https://api.spotify.com/v1/tracks/27RYrbL6S02LNVhDWVl38b",
+        "id": "27RYrbL6S02LNVhDWVl38b",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Happy Xmas (War Is Over) - Remastered 2010",
+        "popularity": 81,
+        "preview_url": "https://p.scdn.co/mp3-preview/d4bcaffeb89c3168579fa495015c91986291a6bc?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:27RYrbL6S02LNVhDWVl38b"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6jf84Ka45iQmAdaVCnRS9u"
+          },
+          "href": "https://api.spotify.com/v1/albums/6jf84Ka45iQmAdaVCnRS9u",
+          "id": "6jf84Ka45iQmAdaVCnRS9u",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732e32dbfe1886f9a2794eda3e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e022e32dbfe1886f9a2794eda3e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048512e32dbfe1886f9a2794eda3e",
+              "width": 64
+            }
+          ],
+          "name": "1 Love",
+          "release_date": "2021-09-10",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:6jf84Ka45iQmAdaVCnRS9u"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+            "id": "2DaxqgrOhkeH0fpeiQq2f4",
+            "name": "Oasis",
+            "type": "artist",
+            "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 260720,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBBQY0202101"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/27N1KikJjyMPpcLZ3Fz0mN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/27N1KikJjyMPpcLZ3Fz0mN",
+        "id": "27N1KikJjyMPpcLZ3Fz0mN",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Xmas Everybody",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/a57445622f2e44ba7b3b93b811967e98242500f9?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:27N1KikJjyMPpcLZ3Fz0mN"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+              },
+              "href": "https://api.spotify.com/v1/artists/0wi4yTYlGtEnbGo4ltZTib",
+              "id": "0wi4yTYlGtEnbGo4ltZTib",
+              "name": "Shakin' Stevens",
+              "type": "artist",
+              "uri": "spotify:artist:0wi4yTYlGtEnbGo4ltZTib"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
+          },
+          "href": "https://api.spotify.com/v1/albums/2jCRKrNZVbG2lGMs0S9Opa",
+          "id": "2jCRKrNZVbG2lGMs0S9Opa",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d962f3b4235f8c6429a829fb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02d962f3b4235f8c6429a829fb",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851d962f3b4235f8c6429a829fb",
+              "width": 64
+            }
+          ],
+          "name": "Merry Christmas Everyone",
+          "release_date": "1991-11-25",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:2jCRKrNZVbG2lGMs0S9Opa"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+            },
+            "href": "https://api.spotify.com/v1/artists/0wi4yTYlGtEnbGo4ltZTib",
+            "id": "0wi4yTYlGtEnbGo4ltZTib",
+            "name": "Shakin' Stevens",
+            "type": "artist",
+            "uri": "spotify:artist:0wi4yTYlGtEnbGo4ltZTib"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 220160,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBARL0801716"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2TE4xW3ImvpltVU0cPcKUn",
+        "id": "2TE4xW3ImvpltVU0cPcKUn",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Christmas Everyone",
+        "popularity": 81,
+        "preview_url": "https://p.scdn.co/mp3-preview/e8b3c202d8a8ccd005d7aa2c82d8761cd506c051?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2TE4xW3ImvpltVU0cPcKUn"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+              },
+              "href": "https://api.spotify.com/v1/artists/10n5lhNDoSMUHWLlnST1yw",
+              "id": "10n5lhNDoSMUHWLlnST1yw",
+              "name": "Slade",
+              "type": "artist",
+              "uri": "spotify:artist:10n5lhNDoSMUHWLlnST1yw"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4QwXjT4wUSmG6haKcopT4j"
+          },
+          "href": "https://api.spotify.com/v1/albums/4QwXjT4wUSmG6haKcopT4j",
+          "id": "4QwXjT4wUSmG6haKcopT4j",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738292fd883c8c22ee0479edf8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e028292fd883c8c22ee0479edf8",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048518292fd883c8c22ee0479edf8",
+              "width": 64
+            }
+          ],
+          "name": "Cum On Feel the Hitz: The Best of Slade",
+          "release_date": "2020-09-25",
+          "release_date_precision": "day",
+          "total_tracks": 43,
+          "type": "album",
+          "uri": "spotify:album:4QwXjT4wUSmG6haKcopT4j"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+            },
+            "href": "https://api.spotify.com/v1/artists/10n5lhNDoSMUHWLlnST1yw",
+            "id": "10n5lhNDoSMUHWLlnST1yw",
+            "name": "Slade",
+            "type": "artist",
+            "uri": "spotify:artist:10n5lhNDoSMUHWLlnST1yw"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223720,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAKW7301006"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35gOhzCr8ULXThNwjwkdWK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/35gOhzCr8ULXThNwjwkdWK",
+        "id": "35gOhzCr8ULXThNwjwkdWK",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Xmas Everybody",
+        "popularity": 51,
+        "preview_url": "https://p.scdn.co/mp3-preview/c482ed49087a6c34a2062553cedb850f77c0d698?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 43,
+        "type": "track",
+        "uri": "spotify:track:35gOhzCr8ULXThNwjwkdWK"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
+              },
+              "href": "https://api.spotify.com/v1/artists/7823Dim2TzjiQQ9wRQxyi9",
+              "id": "7823Dim2TzjiQQ9wRQxyi9",
+              "name": "Wizzard",
+              "type": "artist",
+              "uri": "spotify:artist:7823Dim2TzjiQQ9wRQxyi9"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB"
+          },
+          "href": "https://api.spotify.com/v1/albums/1xYecZKOZdxIuTQN4AuAwB",
+          "id": "1xYecZKOZdxIuTQN4AuAwB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739c462c3958ef80ae2835540c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029c462c3958ef80ae2835540c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519c462c3958ef80ae2835540c",
+              "width": 64
+            }
+          ],
+          "name": "I Wish It Could Be Christmas Everyday",
+          "release_date": "2007-11-19",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:1xYecZKOZdxIuTQN4AuAwB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
+            },
+            "href": "https://api.spotify.com/v1/artists/7823Dim2TzjiQQ9wRQxyi9",
+            "id": "7823Dim2TzjiQQ9wRQxyi9",
+            "name": "Wizzard",
+            "type": "artist",
+            "uri": "spotify:artist:7823Dim2TzjiQQ9wRQxyi9"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 278946,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAYE7300088"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1mH6tZC6iXIHPI6EixCwxw",
+        "id": "1mH6tZC6iXIHPI6EixCwxw",
+        "is_local": false,
+        "is_playable": true,
+        "name": "I Wish It Could Be Christmas Everyday",
+        "popularity": 70,
+        "preview_url": "https://p.scdn.co/mp3-preview/e98a3db8639b760f0802417fe505bc52f610f094?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1mH6tZC6iXIHPI6EixCwxw"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+              },
+              "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+              "id": "2HcwFjNelS49kFbfvMxQYw",
+              "name": "Robbie Williams",
+              "type": "artist",
+              "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1JDeu83sZU5nmRu2OTSk4F"
+          },
+          "href": "https://api.spotify.com/v1/albums/1JDeu83sZU5nmRu2OTSk4F",
+          "id": "1JDeu83sZU5nmRu2OTSk4F",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2731867c1a82b47e642b3566f6a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e021867c1a82b47e642b3566f6a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048511867c1a82b47e642b3566f6a",
+              "width": 64
+            }
+          ],
+          "name": "The Christmas Present (Deluxe)",
+          "release_date": "2019-11-22",
+          "release_date_precision": "day",
+          "total_tracks": 28,
+          "type": "album",
+          "uri": "spotify:album:1JDeu83sZU5nmRu2OTSk4F"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+            },
+            "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+            "id": "2HcwFjNelS49kFbfvMxQYw",
+            "name": "Robbie Williams",
+            "type": "artist",
+            "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+            },
+            "href": "https://api.spotify.com/v1/artists/3XxxEq6BREC57nCWXbQZ7o",
+            "id": "3XxxEq6BREC57nCWXbQZ7o",
+            "name": "Jamie Cullum",
+            "type": "artist",
+            "uri": "spotify:artist:3XxxEq6BREC57nCWXbQZ7o"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 213866,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBPS61900002"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mQvFCSzGQijKJMYhQ5ig0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5mQvFCSzGQijKJMYhQ5ig0",
+        "id": "5mQvFCSzGQijKJMYhQ5ig0",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Xmas Everybody (feat. Jamie Cullum)",
+        "popularity": 48,
+        "preview_url": "https://p.scdn.co/mp3-preview/6157e557f65dd0804a8909333a7bc03b64432cb2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5mQvFCSzGQijKJMYhQ5ig0"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+              },
+              "href": "https://api.spotify.com/v1/artists/10n5lhNDoSMUHWLlnST1yw",
+              "id": "10n5lhNDoSMUHWLlnST1yw",
+              "name": "Slade",
+              "type": "artist",
+              "uri": "spotify:artist:10n5lhNDoSMUHWLlnST1yw"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5Zr9iBEJfPSNEEjaeQilDt"
+          },
+          "href": "https://api.spotify.com/v1/albums/5Zr9iBEJfPSNEEjaeQilDt",
+          "id": "5Zr9iBEJfPSNEEjaeQilDt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732a1dc44de835701b8bbf12b1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e022a1dc44de835701b8bbf12b1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048512a1dc44de835701b8bbf12b1",
+              "width": 64
+            }
+          ],
+          "name": "Crackers",
+          "release_date": "2022-10-07",
+          "release_date_precision": "day",
+          "total_tracks": 20,
+          "type": "album",
+          "uri": "spotify:album:5Zr9iBEJfPSNEEjaeQilDt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+            },
+            "href": "https://api.spotify.com/v1/artists/10n5lhNDoSMUHWLlnST1yw",
+            "id": "10n5lhNDoSMUHWLlnST1yw",
+            "name": "Slade",
+            "type": "artist",
+            "uri": "spotify:artist:10n5lhNDoSMUHWLlnST1yw"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223684,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAKW7301006"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2unvC2MlubBY3GxXqrRW00"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2unvC2MlubBY3GxXqrRW00",
+        "id": "2unvC2MlubBY3GxXqrRW00",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Xmas Everybody",
+        "popularity": 65,
+        "preview_url": "https://p.scdn.co/mp3-preview/6bd95d7e4e7b478ef0fac595ab5492e27e3fa5dd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2unvC2MlubBY3GxXqrRW00"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+              },
+              "href": "https://api.spotify.com/v1/artists/1tcgfoMTT1szjUeaikxRjA",
+              "id": "1tcgfoMTT1szjUeaikxRjA",
+              "name": "Ryuichi Sakamoto",
+              "type": "artist",
+              "uri": "spotify:artist:1tcgfoMTT1szjUeaikxRjA"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F"
+          },
+          "href": "https://api.spotify.com/v1/albums/39iOsfOrW1UpE3dbdFPl0F",
+          "id": "39iOsfOrW1UpE3dbdFPl0F",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ea1feab42c7c93099a7b4cac",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ea1feab42c7c93099a7b4cac",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ea1feab42c7c93099a7b4cac",
+              "width": 64
+            }
+          ],
+          "name": "1996",
+          "release_date": "1996-06-04",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:39iOsfOrW1UpE3dbdFPl0F"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tcgfoMTT1szjUeaikxRjA",
+            "id": "1tcgfoMTT1szjUeaikxRjA",
+            "name": "Ryuichi Sakamoto",
+            "type": "artist",
+            "uri": "spotify:artist:1tcgfoMTT1szjUeaikxRjA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QdS83aNvQzKgj43VTdY8d",
+            "id": "5QdS83aNvQzKgj43VTdY8d",
+            "name": "Jaques Morelenbaum",
+            "type": "artist",
+            "uri": "spotify:artist:5QdS83aNvQzKgj43VTdY8d"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf"
+            },
+            "href": "https://api.spotify.com/v1/artists/3uirG8XMhBhvbdb9adqYMf",
+            "id": "3uirG8XMhBhvbdb9adqYMf",
+            "name": "Everton Nelson",
+            "type": "artist",
+            "uri": "spotify:artist:3uirG8XMhBhvbdb9adqYMf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 286466,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USA6D0410101"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5VuwAhMCz9EMg3RHL1KUEr",
+        "id": "5VuwAhMCz9EMg3RHL1KUEr",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Christmas Mr. Lawrence",
+        "popularity": 58,
+        "preview_url": "https://p.scdn.co/mp3-preview/e6562ff26103b3738f891ceb54aafee34e8773ad?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5VuwAhMCz9EMg3RHL1KUEr"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ"
+          },
+          "href": "https://api.spotify.com/v1/albums/0GHvkwP9xA5vg658fJppdZ",
+          "id": "0GHvkwP9xA5vg658fJppdZ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2735f627261c7d9814ab0b88da3",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e025f627261c7d9814ab0b88da3",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048515f627261c7d9814ab0b88da3",
+              "width": 64
+            }
+          ],
+          "name": "Home Alone (On the Night Before Christmas)",
+          "release_date": "2020-11-27",
+          "release_date_precision": "day",
+          "total_tracks": 18,
+          "type": "album",
+          "uri": "spotify:album:0GHvkwP9xA5vg658fJppdZ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+            },
+            "href": "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+            "id": "1naX4fxuRaDFlj9tGfIUZk",
+            "name": "Dr Phunk",
+            "type": "artist",
+            "uri": "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 165679,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BEIW12000484"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5I9GtTS9QppNtoFoKvXrRA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5I9GtTS9QppNtoFoKvXrRA",
+        "id": "5I9GtTS9QppNtoFoKvXrRA",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Xmas Everybody",
+        "popularity": 42,
+        "preview_url": "https://p.scdn.co/mp3-preview/59dfa756c817108588b6895e0e139c07c0b4fa50?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:5I9GtTS9QppNtoFoKvXrRA"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0xwHtYTN6P4PtjLSzLV4U5"
+              },
+              "href": "https://api.spotify.com/v1/artists/0xwHtYTN6P4PtjLSzLV4U5",
+              "id": "0xwHtYTN6P4PtjLSzLV4U5",
+              "name": "Joe Hicks",
+              "type": "artist",
+              "uri": "spotify:artist:0xwHtYTN6P4PtjLSzLV4U5"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1A52lVGt4oJaXtI9FRxVvt"
+          },
+          "href": "https://api.spotify.com/v1/albums/1A52lVGt4oJaXtI9FRxVvt",
+          "id": "1A52lVGt4oJaXtI9FRxVvt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736d617543efc465363f115c29",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026d617543efc465363f115c29",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516d617543efc465363f115c29",
+              "width": 64
+            }
+          ],
+          "name": "Merry Xmas Everybody",
+          "release_date": "2018-12-06",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:1A52lVGt4oJaXtI9FRxVvt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0xwHtYTN6P4PtjLSzLV4U5"
+            },
+            "href": "https://api.spotify.com/v1/artists/0xwHtYTN6P4PtjLSzLV4U5",
+            "id": "0xwHtYTN6P4PtjLSzLV4U5",
+            "name": "Joe Hicks",
+            "type": "artist",
+            "uri": "spotify:artist:0xwHtYTN6P4PtjLSzLV4U5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201152,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "UKEFC1800007"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BQs8OCMlegB4Mlrx9nJA2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0BQs8OCMlegB4Mlrx9nJA2",
+        "id": "0BQs8OCMlegB4Mlrx9nJA2",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Xmas Everybody",
+        "popularity": 48,
+        "preview_url": "https://p.scdn.co/mp3-preview/78699e3d20c8aa7ef0c238867ddd62264820777d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0BQs8OCMlegB4Mlrx9nJA2"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0gO8PZte8ia6PPiG6Tru3X"
+          },
+          "href": "https://api.spotify.com/v1/albums/0gO8PZte8ia6PPiG6Tru3X",
+          "id": "0gO8PZte8ia6PPiG6Tru3X",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27349b94b9aa2bea351661a37b1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0249b94b9aa2bea351661a37b1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485149b94b9aa2bea351661a37b1",
+              "width": 64
+            }
+          ],
+          "name": "Peaceful Christmas 2022",
+          "release_date": "2022-11-23",
+          "release_date_precision": "day",
+          "total_tracks": 109,
+          "type": "album",
+          "uri": "spotify:album:0gO8PZte8ia6PPiG6Tru3X"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ylcY77FWeSVQKh5et1VGp",
+            "id": "1ylcY77FWeSVQKh5et1VGp",
+            "name": "Music Lab Collective",
+            "type": "artist",
+            "uri": "spotify:artist:1ylcY77FWeSVQKh5et1VGp"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 183453,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBF071602470"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ozMBu0j7sg1TuD9wukXsD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ozMBu0j7sg1TuD9wukXsD",
+        "id": "5ozMBu0j7sg1TuD9wukXsD",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Xmas Everybody",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/284d5017bf20e3f9ef6d6f676072edf0fbbbe57a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 92,
+        "type": "track",
+        "uri": "spotify:track:5ozMBu0j7sg1TuD9wukXsD"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+              "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+              "name": "Frank Sinatra",
+              "type": "artist",
+              "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+          },
+          "href": "https://api.spotify.com/v1/albums/0ny6mZMBrYSO0s8HAKbcVq",
+          "id": "0ny6mZMBrYSO0s8HAKbcVq",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27394fd2e614d0862bdd2592594",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0294fd2e614d0862bdd2592594",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485194fd2e614d0862bdd2592594",
+              "width": 64
+            }
+          ],
+          "name": "A Jolly Christmas From Frank Sinatra",
+          "release_date": "1957-09",
+          "release_date_precision": "month",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:0ny6mZMBrYSO0s8HAKbcVq"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+            "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "name": "Frank Sinatra",
+            "type": "artist",
+            "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 206600,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USCA29900549"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2FPfeYlrbSBR8PwCU0zaqq",
+        "id": "2FPfeYlrbSBR8PwCU0zaqq",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
+        "popularity": 78,
+        "preview_url": "https://p.scdn.co/mp3-preview/2eda21f757438cdda404d5ff610dc9b2f2349616?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2FPfeYlrbSBR8PwCU0zaqq"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
+              },
+              "href": "https://api.spotify.com/v1/artists/1KNXft7nnRQj82sENi7WGN",
+              "id": "1KNXft7nnRQj82sENi7WGN",
+              "name": "Sohodolls",
+              "type": "artist",
+              "uri": "spotify:artist:1KNXft7nnRQj82sENi7WGN"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5UoLyRYhbCOtqNDZDXXBjL"
+          },
+          "href": "https://api.spotify.com/v1/albums/5UoLyRYhbCOtqNDZDXXBjL",
+          "id": "5UoLyRYhbCOtqNDZDXXBjL",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f5c7081a31220b93ad07c85a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f5c7081a31220b93ad07c85a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f5c7081a31220b93ad07c85a",
+              "width": 64
+            }
+          ],
+          "name": "Merry Xmas Everybody",
+          "release_date": "2022-11-18",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5UoLyRYhbCOtqNDZDXXBjL"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KNXft7nnRQj82sENi7WGN",
+            "id": "1KNXft7nnRQj82sENi7WGN",
+            "name": "Sohodolls",
+            "type": "artist",
+            "uri": "spotify:artist:1KNXft7nnRQj82sENi7WGN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 185459,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBHGV2200085"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QIphfOQihUj7yRWzYN8ZF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5QIphfOQihUj7yRWzYN8ZF",
+        "id": "5QIphfOQihUj7yRWzYN8ZF",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Xmas Everybody",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/24bd8b8bcb1e0b2a28abf9648ed891f9c83bd157?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5QIphfOQihUj7yRWzYN8ZF"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5wmpyBrjN5aME9zXWmyUWg"
+          },
+          "href": "https://api.spotify.com/v1/albums/5wmpyBrjN5aME9zXWmyUWg",
+          "id": "5wmpyBrjN5aME9zXWmyUWg",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a84140481fb3bb359b271633",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02a84140481fb3bb359b271633",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851a84140481fb3bb359b271633",
+              "width": 64
+            }
+          ],
+          "name": "Piosenki Świąteczne",
+          "release_date": "2022-11-17",
+          "release_date_precision": "day",
+          "total_tracks": 100,
+          "type": "album",
+          "uri": "spotify:album:5wmpyBrjN5aME9zXWmyUWg"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6flsK6BZEkCqoz4t3M4oeV",
+            "id": "6flsK6BZEkCqoz4t3M4oeV",
+            "name": "Sara James",
+            "type": "artist",
+            "uri": "spotify:artist:6flsK6BZEkCqoz4t3M4oeV"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200787,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "PLUM72100804"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0waFENJVA0XOJSAHOEklgq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0waFENJVA0XOJSAHOEklgq",
+        "id": "0waFENJVA0XOJSAHOEklgq",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Xmas Everybody",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/6af29feeac214b7970d232ed6a926f31103bdb4b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 100,
+        "type": "track",
+        "uri": "spotify:track:0waFENJVA0XOJSAHOEklgq"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0TADPkFIirssENfhYc8Pyz"
+          },
+          "href": "https://api.spotify.com/v1/albums/0TADPkFIirssENfhYc8Pyz",
+          "id": "0TADPkFIirssENfhYc8Pyz",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273fe171ca93d4f3397dbdfe4be",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02fe171ca93d4f3397dbdfe4be",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851fe171ca93d4f3397dbdfe4be",
+              "width": 64
+            }
+          ],
+          "name": "Xmas is coming",
+          "release_date": "2022-11-25",
+          "release_date_precision": "day",
+          "total_tracks": 34,
+          "type": "album",
+          "uri": "spotify:album:0TADPkFIirssENfhYc8Pyz"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+            "id": "2wY79sveU1sp5g7SokKOiI",
+            "name": "Sam Smith",
+            "type": "artist",
+            "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 170964,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71406655"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2E1pSvPLAj85iGDBrP0OTD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2E1pSvPLAj85iGDBrP0OTD",
+        "id": "2E1pSvPLAj85iGDBrP0OTD",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Have Yourself A Merry Little Christmas",
+        "popularity": 1,
+        "preview_url": "https://p.scdn.co/mp3-preview/029e739cc15239d2f6f9a3c3611322e9face307f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:2E1pSvPLAj85iGDBrP0OTD"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+              },
+              "href": "https://api.spotify.com/v1/artists/1eEfMU2AhEo7XnKgL7c304",
+              "id": "1eEfMU2AhEo7XnKgL7c304",
+              "name": "Carpenters",
+              "type": "artist",
+              "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc"
+          },
+          "href": "https://api.spotify.com/v1/albums/5GMAtv4CU6GYQMo36Uuiqc",
+          "id": "5GMAtv4CU6GYQMo36Uuiqc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d044360064a0177e4208a870",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02d044360064a0177e4208a870",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851d044360064a0177e4208a870",
+              "width": 64
+            }
+          ],
+          "name": "Christmas Portrait (Special Edition/Reissue)",
+          "release_date": "1978-10-13",
+          "release_date_precision": "day",
+          "total_tracks": 21,
+          "type": "album",
+          "uri": "spotify:album:5GMAtv4CU6GYQMo36Uuiqc"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+            },
+            "href": "https://api.spotify.com/v1/artists/1eEfMU2AhEo7XnKgL7c304",
+            "id": "1eEfMU2AhEo7XnKgL7c304",
+            "name": "Carpenters",
+            "type": "artist",
+            "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 186973,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAM17800383"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0z5HSQGWgnjdNvwbOmhB2w"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0z5HSQGWgnjdNvwbOmhB2w",
+        "id": "0z5HSQGWgnjdNvwbOmhB2w",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Christmas Darling - Remix",
+        "popularity": 72,
+        "preview_url": "https://p.scdn.co/mp3-preview/b6b67ea370a9309fc1cc84112c832e7ebd0f84a1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0z5HSQGWgnjdNvwbOmhB2w"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+              },
+              "href": "https://api.spotify.com/v1/artists/1eEfMU2AhEo7XnKgL7c304",
+              "id": "1eEfMU2AhEo7XnKgL7c304",
+              "name": "Carpenters",
+              "type": "artist",
+              "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4neiBTHUC0mgKE3Soz0QqK"
+          },
+          "href": "https://api.spotify.com/v1/albums/4neiBTHUC0mgKE3Soz0QqK",
+          "id": "4neiBTHUC0mgKE3Soz0QqK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c84bd71d337d7c4675d73a2d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c84bd71d337d7c4675d73a2d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c84bd71d337d7c4675d73a2d",
+              "width": 64
+            }
+          ],
+          "name": "The Essential Collection (1965-1997)",
+          "release_date": "2002-10-15",
+          "release_date_precision": "day",
+          "total_tracks": 73,
+          "type": "album",
+          "uri": "spotify:album:4neiBTHUC0mgKE3Soz0QqK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+            },
+            "href": "https://api.spotify.com/v1/artists/1eEfMU2AhEo7XnKgL7c304",
+            "id": "1eEfMU2AhEo7XnKgL7c304",
+            "name": "Carpenters",
+            "type": "artist",
+            "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 185906,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAM10200391"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6W65jVdn0JtttcvFN1KppC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6W65jVdn0JtttcvFN1KppC",
+        "id": "6W65jVdn0JtttcvFN1KppC",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Merry Christmas Darling - Single Version",
+        "popularity": 61,
+        "preview_url": "https://p.scdn.co/mp3-preview/c49c4a9ca0815269e391b0442c3faa5737bd9bac?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 21,
+        "type": "track",
+        "uri": "spotify:track:6W65jVdn0JtttcvFN1KppC"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5X6zInLTARXUZ7nIjRo6dl"
+          },
+          "href": "https://api.spotify.com/v1/albums/5X6zInLTARXUZ7nIjRo6dl",
+          "id": "5X6zInLTARXUZ7nIjRo6dl",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273970c45d189cbaca0d6a90847",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02970c45d189cbaca0d6a90847",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851970c45d189cbaca0d6a90847",
+              "width": 64
+            }
+          ],
+          "name": "Home for Christmas",
+          "release_date": "2022-11-17",
+          "release_date_precision": "day",
+          "total_tracks": 93,
+          "type": "album",
+          "uri": "spotify:album:5X6zInLTARXUZ7nIjRo6dl"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+            "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "name": "Frank Sinatra",
+            "type": "artist",
+            "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 237040,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRH10801255"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NmTh0sNII9bte1LwRffBs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4NmTh0sNII9bte1LwRffBs",
+        "id": "4NmTh0sNII9bte1LwRffBs",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Have Yourself A Merry Little Christmas",
+        "popularity": 1,
+        "preview_url": "https://p.scdn.co/mp3-preview/108aca21c64425699dd713b6689c35a630b12a39?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:4NmTh0sNII9bte1LwRffBs"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0Pj2SPt87qtHG4PNcAkgJ2"
+          },
+          "href": "https://api.spotify.com/v1/albums/0Pj2SPt87qtHG4PNcAkgJ2",
+          "id": "0Pj2SPt87qtHG4PNcAkgJ2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273cb8d7d2fac2fd8865b24fbf1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02cb8d7d2fac2fd8865b24fbf1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851cb8d7d2fac2fd8865b24fbf1",
+              "width": 64
+            }
+          ],
+          "name": "Na Božično Noč",
+          "release_date": "2022-11-26",
+          "release_date_precision": "day",
+          "total_tracks": 54,
+          "type": "album",
+          "uri": "spotify:album:0Pj2SPt87qtHG4PNcAkgJ2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+            "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "name": "Frank Sinatra",
+            "type": "artist",
+            "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 237040,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRH10801255"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0iQ69pbltlFneY7KjioOPL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0iQ69pbltlFneY7KjioOPL",
+        "id": "0iQ69pbltlFneY7KjioOPL",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Have Yourself A Merry Little Christmas",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/108aca21c64425699dd713b6689c35a630b12a39?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 25,
+        "type": "track",
+        "uri": "spotify:track:0iQ69pbltlFneY7KjioOPL"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=merry+xmas&type=track&market=GB&locale=en-GB%2Cen%3Bq%3D0.5&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 11057
+  }
+}
