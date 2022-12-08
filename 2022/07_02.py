@@ -80,6 +80,6 @@ for node_name, node in nodes.items():
         deletion_candidate = node_name
         deletion_size = current_size
     
-
+    
 print(f"{deletion_size=}")
 print(f"{deletion_candidate=}")
