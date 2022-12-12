@@ -58,7 +58,7 @@ for idx in range(0, len(instructions), 7):
     m_true = int(instructions[idx+4].split("monkey")[1].strip())
     m_false = int(instructions[idx+5].split("monkey")[1].strip())
 
-    print(m_number, m_items, m_operation, m_test, m_true, m_false)
+    # print(m_number, m_items, m_operation, m_test, m_true, m_false)
 
     new_monkey = Monkey(m_number, m_items, m_operation, m_test, m_true, m_false)
 
