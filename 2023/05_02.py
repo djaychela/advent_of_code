@@ -1,6 +1,6 @@
 from data_read import read_file
 
-# Brute Force Also Not working here...
+# Brute Force did work when using PyPy - took around 45 minutes.
 
 almanac = read_file("05.txt")
 
@@ -65,5 +65,6 @@ for seed in almanac_list[0]:
             dest = map_lookup(idx, value)
             value = dest
         lowest_dest = min(lowest_dest, value)
+    print(f"{lowest_dest=}")
 
 print(lowest_dest)
